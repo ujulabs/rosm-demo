@@ -1,0 +1,10 @@
+{
+  "name": "@uju-labs/rosm-demo",
+  "version": "0.1.0",
+  "scripts": {},
+  "dependencies": {
+    "@cosmjs/cosmwasm-stargate": "0.32.3",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {}
+}
